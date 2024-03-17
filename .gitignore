@@ -15,3 +15,6 @@ GTAGS
 *.depend_raw
 *.swp
 *.patch
+
+# clangd cache
+.cache
